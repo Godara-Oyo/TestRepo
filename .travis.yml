@@ -8,6 +8,13 @@ python:
   #install
 install:
   - pip install -r requirements.txt
+  
+addons:
+  sonarcloud:
+    organization: "varunudemy5_TravisCI_T"
+
+git:
+  depth: false
 
 #script
   #before_script
