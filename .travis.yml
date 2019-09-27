@@ -26,6 +26,7 @@ script:
    - cd ShortStory
    - touch KKK
    - echo 5
+   - sonar-scanner
 
 #after script
   #after sucess
