@@ -11,7 +11,7 @@ install:
   
 addons:
   sonarcloud:
-    organization: "varunudemy5_TravisCI_T"
+    organization: "varunudemy5"
 
 git:
   depth: false
