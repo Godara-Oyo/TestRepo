@@ -13,7 +13,8 @@ def isEven():
         return "even"
 
 wasiteven = isEven()
-for(i=10;i<10;i++)
+
+for num in range(10,20):
     print("hi");
     
 print(wasiteven)
