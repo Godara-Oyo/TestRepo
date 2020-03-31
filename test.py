@@ -16,7 +16,10 @@ wasiteven = isEven()
 
 for num in range(30,20):
     print("hi");
+
     
+res = input("Guess the number: ") 
+
 print(wasiteven)
 print(wasiteven)
 print(wasiteven)
