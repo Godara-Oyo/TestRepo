@@ -26,7 +26,7 @@ script:
    - cd ShortStory
    - touch KKK
    - echo 5
-   - sonar-scanner -Dsonar.projectKey=varunudemy5_TravisCI_T
+   - sonar-scanner -Dsonar.projectKey=Godara-Oyo_TravisTest
 
 #after script
   #after sucess
