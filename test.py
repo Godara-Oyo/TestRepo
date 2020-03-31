@@ -13,7 +13,9 @@ def isEven():
         return "even"
 
 wasiteven = isEven()
-
+for(i=10;i<10;i++)
+    print("hi");
+    
 print(wasiteven)
 print(wasiteven)
 print(wasiteven)
