@@ -14,7 +14,7 @@ def isEven():
 
 wasiteven = isEven()
 
-for num in range(10,20):
+for num in range(30,20):
     print("hi");
     
 print(wasiteven)
